@@ -1,4 +1,4 @@
-# nodejs_blog
+# nodejs_education
 
 Website bao gồm các chức năng:
 - CRUD
